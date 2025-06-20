@@ -1,4 +1,4 @@
-📌 Task-3:-- Advanced Features Implementation
+📌Advanced Features Implementation
 
 🎯 Objective
 Enhance the application with advanced features like search and pagination.
